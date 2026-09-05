@@ -1,6 +1,6 @@
 # GroupPulseProBot — group activity stats for Telegram
 
-**Try it:** [@GroupPulseProBot](https://t.me/GroupPulseProBot) · [tg.zovo.one/bots/pulse/](https://tg.zovo.one/bots/pulse/)
+**Try it:** [@GroupPulseProBot](https://t.me/GroupPulseProBot?start=github) · [tg.zovo.one/bots/pulse/](https://tg.zovo.one/bots/pulse/)
 
 ## What it does
 
