@@ -1,5 +1,6 @@
 {
   "name": "grouppulse-bot",
+  "repository": {"type": "git", "url": "theluckystrike/telegram-group-activity-stats-bot.git"},
   "private": true,
   "type": "module",
   "scripts": {
